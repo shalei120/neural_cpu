@@ -3,5 +3,5 @@ Source code of our paper "Estimate Minimum Operation Steps via Memory-based Recu
 
 
 Estimate Minimum Operation Steps via Memory-based Recurrent Calculation Network<br>
-Lei Sha, Chen Shi, Qi Chen, Lintao Zhang, Zhifang Sui<br>
-submitted to IJCNN 2020
+Lei Sha, Chen Shi, Qi Chen, Lintao Zhang, Houfeng Wang<br>
+To be appeared in IJCNN 2020
